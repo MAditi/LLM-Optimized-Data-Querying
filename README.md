@@ -28,9 +28,13 @@ Dataset:
 The project uses a sample relational dataset that includes:
 
 Customers table
+
 Orders table
+
 Sales data
+
 Product information
+
 
 System Workflow:
 
