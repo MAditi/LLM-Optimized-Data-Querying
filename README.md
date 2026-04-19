@@ -18,9 +18,9 @@ Query optimization for improved performance
 Technologies Used:
 
 Python
-SQLite / MySQL / PostgreSQL
-Google Colab
-OpenAI API
+SQLite / MySQL / PostgreSQL,
+Google Colab,
+OpenAI API &
 SQL
 
 Dataset:
