@@ -1,6 +1,4 @@
 # LLM-Optimized-Data-Querying
-LLM-Optimized Data Warehouse Querying
-Project Description
 
 This project focuses on building an intelligent system that uses Large Language Models (LLMs) to convert natural language questions into SQL queries. It enables users to interact with a data warehouse without requiring SQL knowledge, making data access simple, efficient, and user-friendly.
 
