@@ -20,7 +20,7 @@ Technologies Used:
 Python
 SQLite / MySQL / PostgreSQL,
 Google Colab,
-OpenAI API &
+OpenAI API (mock llm)&
 SQL
 
 Dataset:
