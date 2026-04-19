@@ -35,7 +35,7 @@ Product information
 
 System Workflow:
 
-User enters a query in natural language
-LLM converts the query into SQL
-SQL query is executed on the database
-Results are retrieved and displayed to the user
+1. User enters a query in natural language
+2. LLM converts the query into SQL
+3. SQL query is executed on the database
+4. Results are retrieved and displayed to the user
